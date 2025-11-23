@@ -14,6 +14,8 @@ This repository contains SAS programs and their R equivalents, demonstrating com
 
 ### 1. Create a Sorted Copy of a Table
 
+**[Quick Demo](https://www.loom.com/share/6c213799867f4d12babcc156f6124bb6)**
+
 **Files:**
 
 - `1_Create a sorted copy of a table.sas` - Original SAS code
